@@ -4,6 +4,7 @@
 
 ### Video Lecture
 [NPTEL Note for Ohm's Law](http://nptel.ac.in/courses/122106026)
+
 [NPTEL Note for Resistor Combinations](http://nptel.ac.in/courses/122106026)
 
 

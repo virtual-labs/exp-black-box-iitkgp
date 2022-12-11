@@ -7,8 +7,6 @@
 
 ## Contributors List
 
-### Developer
-
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 1 | **Sukriti Dhang** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 

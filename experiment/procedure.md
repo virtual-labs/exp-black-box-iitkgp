@@ -17,7 +17,7 @@
                                     
 
 <div align="center">
-<img src="images/ohmsunk_pr.png" width="40%">
+<img src="images/ohmsunk_pr.png" style="max-width:100%; height:auto;">
 <p>Figure:1</p>
 </div>
 
@@ -33,7 +33,7 @@
 9. If we see that a straight curve is obtain then, it would be an ohmic device.
 
 <div align="center">
-<img src="images/ohmsunk_pr.png" width="40%">
+<img src="images/ohmsunk_pr.png" style="max-width:100%; height:auto;">
 <p>Figure: 2</p>
 </div>
 
@@ -47,7 +47,7 @@
 7. Plot the V-I graph and observe the change.
 
 <div align="center">
-<img src="images/ohmsunkr_pr.png" width="40%">
+<img src="images/ohmsunkr_pr.png" style="max-width:100%; height:auto;">
 <p>Figure: 3</p>
 </div>
 
@@ -62,6 +62,6 @@
 8. If we see that a straight curve is obtain then, it would be an ohmic device.
 9. If we see a charging upto input voltage, then it would be capacitance.
 <div align="center">
-<img src="images/ohmsunkr_pr.png" width="40%">
+<img src="images/ohmsunkr_pr.png" style="max-width:100%; height:auto;">
 <p>Figure: 4</p>
 </div>

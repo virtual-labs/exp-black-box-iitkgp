@@ -10,12 +10,7 @@
         "d": "35 W"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is correct"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -28,12 +23,7 @@
         "d": "it is impossible to determine the change in the resistor"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is correct",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -46,12 +36,7 @@
         "d": "3.333 mΩ"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is correct  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -64,12 +49,7 @@
         "d": "2.7 kΩ"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is correct"
-      },
+      
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
